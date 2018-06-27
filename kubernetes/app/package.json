@@ -1,0 +1,14 @@
+{
+  "name": "test_nodejs_kubernetes",
+  "author": "Test",
+  "engines": {
+    "node": "8.x.x"
+  },
+  "scripts": {
+  "start": "node app.js"
+},
+  "dependencies": {
+    "express": "4.16.2",
+    "pug": "2.0.3"
+  }
+}
